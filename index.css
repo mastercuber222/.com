@@ -183,7 +183,7 @@ li {
         align-items: center;
         position: absolute;
         left:25px;
-        top:700px;
+        top:250px;
     }
     .btn-2 {
         display: flex;
@@ -191,7 +191,7 @@ li {
         align-items: center;
         position: absolute;
         left: 275px;
-        top: 700px;
+        top: 500px;
     }
 }
 @media only screen and (max-width:740px) {
